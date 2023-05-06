@@ -42,7 +42,7 @@ Typical support requests might be:
 * Installation and commissioning of a full hardware interface and PC system for a preserved signal box or museum.
 * Development of new hardware to interface with a custom piece of signalling equipment (e.g SSI modules).
 
-It is important to note that the open source nature of the project means that users are never force to pay for support and can source it from wherever they wish, including general software developers as the code follows standard practices.
+It is important to note that the open source nature of the project means that users are never forced to pay for support and can source it from wherever they wish, including general software developers as the code follows standard practices.
 
 ## Licensing
 
