@@ -38,7 +38,7 @@ It is intended that once established, the openSignalBox community will self-supp
 Typical support requests might be:
 
 * A new code module to interface to your custom software.
-* Support for a new protocol, e.g. Loconet for model raliways.
+* Support for a new protocol, e.g. Loconet for model railways.
 * Installation and commissioning of a full hardware interface and PC system for a preserved signal box or museum.
 * Development of new hardware to interface with a custom piece of signalling equipment (e.g SSI modules).
 
